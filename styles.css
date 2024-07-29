@@ -177,7 +177,7 @@ nav {
 }
 
 .portfolio__card:nth-child(1)::after {
-  content: "Portraits";
+  content: "WEDDING";
 }
 
 .portfolio__card:nth-child(2)::after {
@@ -185,7 +185,7 @@ nav {
 }
 
 .portfolio__card:nth-child(3)::after {
-  content: "Fashions";
+  content: "POTRAIT";
 }
 
 .portfolio__content {
